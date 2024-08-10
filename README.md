@@ -1,9 +1,7 @@
 # Filtering Cotton Seeding Trays
 The filter script utilizes the Point Cloud Library to remove noise in point clouds of cotton seedling trays. It first uses ConditionalRemoval to filter based on position and color, then RadiusOutlierRemoval, then StatisticalOutlierRemoval.
 
-The following video shows the filtering at each step:
-
-
+The following video shows the filtering at each step: [Video](https://www.youtube.com/watch?v=1mu3onTN6gg)
 
 ## Codebase Walkthrough
 ### Clouds
